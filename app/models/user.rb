@@ -2,7 +2,7 @@ class User
   def initialize
     @initial = "K"
     @birthplace = "Tokyo"
-    @hobby = "Watching movies"
+    @hobby = "Watching movie"
   end
 
   def introduce
